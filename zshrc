@@ -1,8 +1,7 @@
-source ~/.bashrc
-
 export TERM="xterm-256color"
 export LANG="en_US.UTF-8"
 export ZSH="/home/${USER}/.oh-my-zsh"
+export PATH=~/.npm-global/bin:$PATH
 
 ZSH_THEME="powerlevel9k/powerlevel9k"
 POWERLEVEL9K_MODE="nerdfont-complete"
