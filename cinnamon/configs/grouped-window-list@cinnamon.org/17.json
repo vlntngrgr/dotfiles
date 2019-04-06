@@ -168,7 +168,9 @@
             "nemo.desktop"
         ],
         "value": [
-            "org.gnome.Terminal.desktop"
+            "firefox.desktop",
+            "org.gnome.Terminal.desktop",
+            "nemo.desktop"
         ]
     },
     "group-apps": {
