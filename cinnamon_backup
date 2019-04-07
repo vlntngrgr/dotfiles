@@ -1,0 +1,47 @@
+[/]
+applet-cache-updated=1554545727
+enabled-applets=['panel3:center:1:calendar@cinnamon.org:11', 'panel3:right:10:network@cinnamon.org:12', 'panel3:right:14:notifications@cinnamon.org:13', 'panel3:right:18:trash@cinnamon.org:14', 'panel3:right:8:sound@cinnamon.org:15', 'panel3:right:16:power@cinnamon.org:16', 'panel3:left:3:grouped-window-list@cinnamon.org:17', 'panel3:right:12:removable-drives@cinnamon.org:18', 'panel3:right:17:separator@cinnamon.org:19', 'panel3:right:15:separator@cinnamon.org:20', 'panel3:right:9:separator@cinnamon.org:21', 'panel3:right:7:separator@cinnamon.org:22', 'panel3:right:11:separator@cinnamon.org:23', 'panel3:right:13:separator@cinnamon.org:24', 'panel3:right:19:separator@cinnamon.org:25', 'panel3:left:2:separator@cinnamon.org:26', 'panel3:left:1:Cinnamenu@json:27', 'panel3:left:0:separator@cinnamon.org:28', 'panel3:center:0:separator@cinnamon.org:29', 'panel3:left:4:separator@cinnamon.org:30', 'panel3:center:2:separator@cinnamon.org:31']
+next-applet-id=32
+panel-edit-mode=false
+panel-zone-icon-sizes='[{"panelId": 3, "left": 0, "center": 0, "right": 0}]'
+panels-autohide=['1:false', '2:false', '3:false']
+panels-enabled=['3:0:top']
+panels-height=['1:60', '2:40', '3:25']
+panels-hide-delay=['1:0', '2:0', '3:0']
+panels-show-delay=['1:0', '2:0', '3:0']
+
+[desktop/a11y/applications]
+screen-keyboard-enabled=false
+screen-reader-enabled=false
+
+[desktop/a11y/mouse]
+dwell-click-enabled=false
+dwell-threshold=10
+dwell-time=1.2
+secondary-click-enabled=false
+secondary-click-time=1.2
+
+[desktop/interface]
+cursor-blink-time=1200
+font-name='Fira Code weight=453 9'
+gtk-theme='Adapta-Nokto'
+text-scaling-factor=1.2000000000000002
+toolkit-accessibility=false
+
+[desktop/sound]
+event-sounds=false
+
+[desktop/wm/preferences]
+theme='Adapta-Nokto'
+titlebar-font='Fira Code weight=453 10'
+
+[settings-daemon/peripherals/keyboard]
+delay=uint32 500
+repeat-interval=uint32 30
+
+[settings-daemon/plugins/xsettings]
+rgba-order='rgb'
+
+[theme]
+name='Adapta-Nokto'
+symbolic-relative-size=1.0

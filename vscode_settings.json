@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "'Fira Code Retina', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Winter is Coming (Dark)",
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.snippetSuggestions": "top",
+    "files.insertFinalNewline": true,
+    "eslint.options": {
+        "configFile": "~/.eslintrc.js"
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "editor.formatOnSave": false,
+    "prettier.options": {
+        "configFile": "~/.prettierrc"
+    }
+}
