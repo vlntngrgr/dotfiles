@@ -168,9 +168,10 @@
             "nemo.desktop"
         ],
         "value": [
-            "firefox.desktop",
             "org.gnome.Terminal.desktop",
-            "nemo.desktop"
+            "nemo.desktop",
+            "firefox-nightly.desktop",
+            "termite.desktop"
         ]
     },
     "group-apps": {

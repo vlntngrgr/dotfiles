@@ -13,5 +13,7 @@
     "editor.formatOnSave": false,
     "prettier.options": {
         "configFile": "~/.prettierrc"
-    }
+    },
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": -2
 }
