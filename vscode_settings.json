@@ -2,7 +2,6 @@
     "editor.fontFamily": "'Fira Code Retina', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "workbench.colorTheme": "Winter is Coming (Dark)",
     "files.autoSave": "onFocusChange",
-    "workbench.iconTheme": "vscode-icons",
     "editor.snippetSuggestions": "top",
     "files.insertFinalNewline": true,
     "eslint.options": {
@@ -15,5 +14,8 @@
         "configFile": "~/.prettierrc"
     },
     "explorer.confirmDelete": false,
-    "window.zoomLevel": 1
+    "window.zoomLevel": 1,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }

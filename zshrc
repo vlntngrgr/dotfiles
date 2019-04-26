@@ -46,8 +46,7 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(vcs)
 
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=1
 
-POWERLEVEL9K_TIME_FORMAT="%D{%H:%M %d/%m/%y}"
-POWERLEVEL9K_TIME_BACKGROUND='white'
+POWERLEVEL9K_TIME_FORMAT="%D{%H:%M %d/%m/%y}"POWERLEVEL9K_TIME_BACKGROUND='white'
 POWERLEVEL9K_RAM_BACKGROUND='blue'
 POWERLEVEL9K_LOAD_CRITICAL_BACKGROUND="white"
 POWERLEVEL9K_LOAD_WARNING_BACKGROUND="white"
@@ -68,4 +67,4 @@ source $ZSH/custom/themes/powerlevel9k/powerlevel9k.zsh-theme
 source $ZSH/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $ZSH/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-alias lsd='ls -Falh'
+alias code='vscodium .'
