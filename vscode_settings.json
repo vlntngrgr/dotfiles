@@ -4,9 +4,6 @@
     "files.autoSave": "onFocusChange",
     "editor.snippetSuggestions": "top",
     "files.insertFinalNewline": true,
-    "eslint.options": {
-        "configFile": "~/.eslintrc.js"
-    },
     "eslint.alwaysShowStatus": true,
     "eslint.autoFixOnSave": true,
     "editor.formatOnSave": false,
