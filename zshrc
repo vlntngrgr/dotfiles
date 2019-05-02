@@ -1,3 +1,6 @@
+## Not used anymore
+# Keeping it to just conserv my zsh config
+
 export LANG="en_US.UTF-8"
 export ZSH="/home/${USER}/.oh-my-zsh"
 export PATH=~/.npm-global/bin:$PATH

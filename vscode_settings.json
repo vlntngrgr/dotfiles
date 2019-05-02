@@ -1,6 +1,6 @@
 {
     "editor.fontFamily": "'Fira Code Retina', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-    "workbench.colorTheme": "Winter is Coming (Dark)",
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
     "files.autoSave": "onFocusChange",
     "editor.snippetSuggestions": "top",
     "files.insertFinalNewline": true,
@@ -10,12 +10,12 @@
     "eslint.alwaysShowStatus": true,
     "eslint.autoFixOnSave": true,
     "editor.formatOnSave": false,
-    "prettier.options": {
-        "configFile": "~/.prettierrc"
-    },
     "explorer.confirmDelete": false,
     "window.zoomLevel": 1,
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "workbench.iconTheme": "vscode-great-icons",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true
 }
