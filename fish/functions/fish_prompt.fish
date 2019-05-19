@@ -1,1 +1,1 @@
-/home/vlntngrgr/.local/share/omf/themes/gnuykeaj/fish_prompt.fish
+C:/home/vlntngrgr/.local/share/omf/themes/gnuykeaj/fish_prompt.fish
