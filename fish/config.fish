@@ -5,6 +5,7 @@ set -x CLICOLOR 1
 set -x LSCOLORS gxfxcxdxbxegedabagacad
 
 set -x LANG fr_BE.UTF-8
+set -x PATH "$PATH:$HOME/.composer/vendor/bin"
 
 set -x GREP_OPTIONS "--color=auto"
 
