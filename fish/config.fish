@@ -4,8 +4,6 @@ set -x EDITOR "vim"
 set -x CLICOLOR 1
 set -x LSCOLORS gxfxcxdxbxegedabagacad
 
-set -x LC_ALL fr_BE.UTF-8
-set -x LC_CTYPE fr_BE.UTF-8
 set -x LANG fr_BE.UTF-8
 
 set -x GREP_OPTIONS "--color=auto"
